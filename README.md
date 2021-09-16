@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Electron/JS
 - 👯 I’m looking to collaborate on Android apps
 - 🤔 I’m looking for help with Javascript
-- 📫 My Socials: [Instagram](https://www.instagram.com/supersu_man/), [Facebook](https://www.facebook.com/AskSumanth444), [Youtube](https://www.youtube.com/channel/UCceOeB8FcmdUqmW79pUCYPg)
+- 📫 My Socials: [Instagram](https://www.instagram.com/supersu_man/), [Facebook](https://www.facebook.com/AskSumanth444), [Youtube](https://www.youtube.com/channel/UCceOeB8FcmdUqmW79pUCYPg), [HackerRank](https://www.hackerrank.com/sumanthpera444)
 - ⚡ Fun fact: I love Kotlin
 
 <p align='center'>
