@@ -7,9 +7,9 @@
   A passionate Android app developer.
 </p>
 
-- 🌱 I’m currently learning Electron/JS
+- 🌱 I’m currently playing with GitHub actions
 - 👯 I’m looking to collaborate on Android apps
-- 🤔 I’m looking for help with Javascript
+- 🤔 I’m looking for help with nothing much really
 - 📫 My Socials: [Instagram](https://www.instagram.com/supersu_man/), [Facebook](https://www.facebook.com/AskSumanth444), [Youtube](https://www.youtube.com/channel/UCceOeB8FcmdUqmW79pUCYPg), [HackerRank](https://www.hackerrank.com/sumanthpera444)
 - ⚡ Fun fact: I love Kotlin
 
