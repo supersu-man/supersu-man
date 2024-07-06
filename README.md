@@ -47,12 +47,6 @@
 
 <div align="center">
 
-![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=supersu-man&count_private=true&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supersu-man&layout=compact&theme=tokyonight)
 
 </div>
